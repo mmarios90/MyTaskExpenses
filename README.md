@@ -8,4 +8,4 @@ All values are stored in a database(mysql). Hibernate is used for object communi
 
 Key concepts: Java, Java Swing, JFrame, JTable, Maven, Hibernate
 
-![GitHub Logo](/home/mariosmichalopoulos/Documents/mytask.png)
+![image](https://user-images.githubusercontent.com/41991765/114310794-bc7df080-9af4-11eb-96e1-2ec3435b3564.png)
