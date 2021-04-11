@@ -1,4 +1,4 @@
-A simple Java project for presenting the costs of specific activities and its laborers participating to them.
+A simple Java project for presenting the costs of specific activities and their laborers participating to them.
 
 Each activity's cost is calculated by summing its three laborers' costs which we can change dynamically. 
 For presenting the above instances and current values, we create a jtable showing the activities,
